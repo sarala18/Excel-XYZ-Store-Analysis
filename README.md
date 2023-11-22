@@ -1,4 +1,4 @@
-# Excel-XYZ-Store-Analysis
+# Excel_XYZ_Store_Analysis
 
 step1- Data Cleaning 
 Removed the dulipate values and find null values.
